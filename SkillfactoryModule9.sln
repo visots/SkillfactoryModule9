@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate9-3-13", "Delegate9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateContrAndCovariant", "DelegateContrAndCovariant\DelegateContrAndCovariant.csproj", "{71226D81-09C2-46C8-B41D-D8E90CB41484}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalTask9-6-1", "FinalTask9-6-1\FinalTask9-6-1.csproj", "{504F65F9-6827-4720-BB7D-43C12E75A785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalTask9-6-1", "FinalTask9-6-1\FinalTask9-6-1.csproj", "{504F65F9-6827-4720-BB7D-43C12E75A785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalTask9-6-2", "FinalTask9-6-2\FinalTask9-6-2.csproj", "{85C836F8-1D67-463C-8A69-71D0CF77C7E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{504F65F9-6827-4720-BB7D-43C12E75A785}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{504F65F9-6827-4720-BB7D-43C12E75A785}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{504F65F9-6827-4720-BB7D-43C12E75A785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C836F8-1D67-463C-8A69-71D0CF77C7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C836F8-1D67-463C-8A69-71D0CF77C7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C836F8-1D67-463C-8A69-71D0CF77C7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C836F8-1D67-463C-8A69-71D0CF77C7E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
